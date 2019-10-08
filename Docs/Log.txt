@@ -1,0 +1,7 @@
+##-- Arquivos necessarios
+> A Bats para registrar arquivos ficam localizadas em (C:\Program Files (x86)\Common Files\MDCi\bats)
+
+##-- TODO
+> Na instalação ou atualização do servidor, solicitar os dados de acesso remoto ao Banco de dados.
+> A clicar nos modulos instalados, implementar a mensagem para informar ao usuario
+
